@@ -1,0 +1,11 @@
+.home-container {
+  display: flex;
+  background-color: #081028;
+  min-height: 100vh;
+  color: white;
+}
+.home-content {
+  margin-left: 250px;
+  padding: 20px;
+  flex: 1;
+}
