@@ -2,7 +2,7 @@ import React from "react";
 import "../styles/Sidebar.css";
 import { Link } from "react-router-dom";
 
-const Sidebar = () => {
+const SidebarLeft = () => {
   return (
     <div className="sidebar-wrapper">
       <div className="sidebar-header">
@@ -69,4 +69,4 @@ const Sidebar = () => {
   );
 };
 
-export default Sidebar;
+export default SidebarLeft;

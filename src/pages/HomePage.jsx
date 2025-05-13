@@ -11,7 +11,7 @@ const HomePage = () => {
         minHeight: "100vh",
       }}
     >
-      <Sidebar />
+      <SidebarLeft />
       <div
         style={{
           marginLeft: "250px",
